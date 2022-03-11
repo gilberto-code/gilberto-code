@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <div align="center">
   <a href="https://github.com/gilberto-code">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilberto-code&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilberto-code&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilberto-code&layout=compact&langs_count=4"/>
 </div>
   
